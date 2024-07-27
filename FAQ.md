@@ -1,4 +1,13 @@
-### :wing: Asa Arcana
+Respondendo as dúvidas mais frequentes para quem não tem muita familiaridade com as funcionalidades presentes no Episódio 33.
+
+[Como pegar Asa](https://discord.com/channels/943873464153034822/1264757141118652476/1266581186604568649)
+[Como liberar a Coleção](https://discord.com/channels/943873464153034822/1264757141118652476/1266581380616159393)
+[Craft da Chloe](https://discord.com/channels/943873464153034822/1264757141118652476/1266581694098706515)
+[Como liberar o Link Estelar](https://discord.com/channels/943873464153034822/1264757141118652476/1266581905785225306)
+[Missão de Guerra](https://discord.com/channels/943873464153034822/1264757141118652476/1266581967315664906)
+[Como pegar Nação](https://discord.com/channels/943873464153034822/1264757141118652476/1266581999817195582)
+
+### :wing: Como pegar Asa
 Para liberar a Asa Arcana, você precisa fazer a missão **Nv. 130 Grande Conquista da Vovó Yerte**, disponível no NPC Vovó Yerte em Porto Lux. Após pegar a missão, você precisará criar um item chamado **Caixa de Jóia de Luxo** na Chloe.
 
 Para criar esse item, você precisa de:
@@ -9,7 +18,7 @@ Após a criação do item **Caixa de Jóia de Luxo**, você precisa voltar para 
 
 Ao utilizar esse item, você receberá a Asa Arcana do personagem.
 
-### :package: Coleção
+### :package: Como liberar a Coleção
 Para liberar a Coleção, você precisa fazer a missão **Nv. 100 Grande Plano de Eite**, disponível no NPC Eite (Vendedor de Armas) em Porto Lux. Após pegar a missão, você precisará criar um item chamado **Mala de Luxo** na Chloe.
 
 Para criar esse item, você precisa de:
@@ -28,7 +37,7 @@ Você começa com **0 pontos de amizade** com ela, essa amizade cresce conforme 
 
 É de **EXTREMA IMPORTÂNCIA** fazer as missões diárias da Chloe (conforme expliquei aqui https://discord.com/channels/943873464153034822/1264753551960440924/1264764743239860225), pois você utilizará o **Token da Chloe** para liberar algumas receitas importantes, e essas missões te concedem 1 **Token da Chloe** por dia.
 
-### :star: Link Estelar
+### :star: Como liberar Link Estelar
 Para liberar o Link Estelar, você precisa fazer a missão **Nv. 50 A Força que o Meteoro Traz**, disponível na NPC Chloe em Porto Lux. Após pegar a missão, você precisará comprar um item chamado **Máquina de Trituração** (1,000,000 Alz) no NPC Hampric em Porto Lux.
 
 Após comprar o item, você precisa voltar para a Chloe e entregar a missão. Como recompensa, seu Link Estelar será liberado.
@@ -38,7 +47,7 @@ Conteúdo mais detalhado sobre Link Estelar: https://tdrnevareth.blogspot.com/20
 ### :crossed_swords: Missão de Guerra
 As guerras ocorrem nos seguintes horários: 12:00, 20:00 e 22:00.
 
-### :flag_white: Nação
+### :flag_white: Como pegar Nação
 Para pegar nação, basta estar em alguma das cidades iniciais (Tundra, Deserto ou Floresta) e digitar o seguinte comando no chat:
 
 @setnation 1  :point_right: Capella
