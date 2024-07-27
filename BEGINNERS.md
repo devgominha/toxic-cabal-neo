@@ -1,6 +1,10 @@
 Dicas para iniciantes no Cabal Neo Episódio 33.
 
-
+[Foco em pegar Grau de Classe 21](https://discord.com/channels/943873464153034822/1264923393346633808/1266589068704088064)
+[Fazer as TGs para pegar Honra 20](https://discord.com/channels/943873464153034822/1264923393346633808/1266591704363044975)
+[Fique atento aos eventos](https://discord.com/channels/943873464153034822/1264923393346633808/1266593563467317319)
+[Rota de farm inicial](https://discord.com/channels/943873464153034822/1264923393346633808/1266597604330962955)
+[Runas](https://discord.com/channels/943873464153034822/1264923393346633808/1266728796233404497)
 
 ### :chart_with_upwards_trend: Foco em pegar Grau de Classe 21
 
@@ -54,3 +58,33 @@ O farm é garantido!
 
 ![image](https://github.com/user-attachments/assets/e40467e8-6467-498a-a874-2aaab171318a)
 
+### :rock: Runas básicas
+As runas podem ser adquiridas de 3 formas:
+- Comprando no Leilão
+- Drop em calabouços
+- Comprando o **Cubo de Runa de Essência (PC)** na NPC de Troca de PC Petícia em Porto Lux
+
+Você pode equipar e ir subindo o nível de suas runas com AP com o Núcleo Arcano e Núcleo de Aprimoramento.
+
+Runas básicas **recomendadas**:
+- HP
+- MP
+- Ataque OU Ataque Mágico
+- Defesa
+- Precisão
+- Evasão
+- FOR
+- INT
+- DES
+- Aumento de Max Taxa Crítica
+- Danos Críticos
+- Aumento de Absorção de HP
+- Aumento de Absorção de MP
+- Aumento Limite de Absorção de HP
+- Amp. Espada OU Amp. Mágica
+
+Runas básicas **situacionais**:
+- Aumento Limite de Absorção de MP
+- Resistência a Queda
+
+![image](https://github.com/user-attachments/assets/4b5f863c-07b4-4b09-9771-6286aeb91a50)
