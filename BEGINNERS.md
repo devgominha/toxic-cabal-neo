@@ -64,7 +64,7 @@ As runas podem ser adquiridas de 3 formas:
 - Drop em calabouços
 - Comprando o **Cubo de Runa de Essência (PC)** na NPC de Troca de PC Petícia em Porto Lux
 
-Você pode equipar e ir subindo o nível de suas runas com AP com o Núcleo Arcano e Núcleo de Aprimoramento.
+Você pode equipar e ir subindo o nível de suas runas com AP, Núcleo Arcano e Núcleo de Aprimoramento.
 
 Runas básicas **recomendadas**:
 - HP
