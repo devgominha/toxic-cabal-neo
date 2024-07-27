@@ -1,5 +1,8 @@
 ### :heart_decoration: Missões da Chloe
-Texto aqui...
+Em construção...
+
+### 🐴 Baldus
+Em construção...
 
 ### 💪 Missões de Overlord
 Você tem duas missões diárias para aumentar o seu nível de Overlord. São essas duas missões: **OLv. 1 Missão Diária de Hursurf I** e **OLv. 1 Para essência do Fantasma Ancião**.
@@ -58,7 +61,7 @@ A entrada do calabouço se chama **Um pedaço da estátua misteriosa** e pode se
 
 
 ### :imp: Torres Diabólicas
-Texto aqui...
+Em construção...
 
 ### :handshake: Dungeon da Guild
 Ainda não disponível.
