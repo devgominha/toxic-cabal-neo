@@ -73,6 +73,7 @@ A entrada do calabouço se chama **Um pedaço da estátua misteriosa** e pode se
 
 ### :imp: Torres Diabólicas
 Em construção...
+> Não utilize mercenários que dão muito dano em área, tipo a Yuan ou a Rin, pois elas matarão os mobs e você perderá a EXP deles.
 
 ### :handshake: Dungeon da Guild
 Ainda não disponível.
