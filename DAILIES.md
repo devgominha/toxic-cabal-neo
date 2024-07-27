@@ -1,3 +1,14 @@
+Lista das missões, calabouços e desafios que você pode fazer diariamente conforme você conseguir.
+
+[Missões da Chloe](https://discord.com/channels/943873464153034822/1264753551960440924/1266584181614579813)
+[Baldus](https://discord.com/channels/943873464153034822/1264753551960440924/1266584234387177492)
+[Missões de Overlord](https://discord.com/channels/943873464153034822/1264753551960440924/1266584274853957643)
+[Missões de Desafio](https://discord.com/channels/943873464153034822/1264753551960440924/1266585553076486247)
+[Ticket de Runas Karma (Calabouços do Dia)](https://discord.com/channels/943873464153034822/1264753551960440924/1266585691379335321)
+[Dungeon da Asa Arcana](https://discord.com/channels/943873464153034822/1264753551960440924/1266585857121320991)
+[Torres Diabólicas](https://discord.com/channels/943873464153034822/1264753551960440924/1266585890692661309)
+[Dungeon da Guild](https://discord.com/channels/943873464153034822/1264753551960440924/1266585904907161621)
+
 ### :heart_decoration: Missões da Chloe
 Em construção...
 
