@@ -50,6 +50,8 @@ No canto inferior direito do seu minimapa tem o ícone de calabouço, ao clicar 
 
 Ao finalizar um calabouço presente nessa lista, você ganhará  **Caixa de Ticket de Troca de Runas de Karma**. Esses Tickets poderão ser trocados por **Runas Karma** no NPC Agente de Runa Flasha em Tundra Infame
 > Essa recompensa é única por dia e por calabouço. Você **não** ganhará Ticket extra por fazer mais que uma entrada do mesmo calabouço
+>
+> Obs: Você também pode comprar Ticket de Runas Karma por PC no NPC Peticia, em Porto Lux
 
 ![image](https://github.com/user-attachments/assets/44e71a28-1a12-4f6e-a392-0eebca86cf76)
 
