@@ -62,20 +62,39 @@ Ao finalizar um calabouço presente nessa lista, você ganhará  **Caixa de Tick
 ![image](https://github.com/user-attachments/assets/6b27e12b-a223-46ab-b75d-05cf597c8efa)
 
 ### 👼 Dungeon da Asa Arcana
-Essa diária é muito importante para evoluir a Asa Arcana do seu personagem. Você pode fazê-la até 3 vezes por dia.
+Essa diária é muito importante para evoluir a Asa Arcana do seu personagem.
 
 A entrada do calabouço se chama **Um pedaço da estátua misteriosa** e pode ser adquirida no NPC Dr. Fernando em Tundra Infame. O custo da entrada é de:
 - 500,000 Alz
 - 20x Essência Arcana
 
 > O Poder de Combate recomendado é de 410,000.
+> 
+> **Você pode fazer o calabouço da asa até 9 vezes por dia. Você pode resetar na terceira e sexta entrada, custando :gem: 75 e :gem: 100, respectivamente.**
+
+Tutorial do calabouço: https://youtu.be/K6lch5cYVIk
 
 ![image](https://github.com/user-attachments/assets/554e03a2-7399-4b74-a435-9be8a282da03)
 
 
 ### :imp: Torres Diabólicas
-Em construção...
-> Não utilize mercenários que dão muito dano em área, tipo a Yuan ou a Rin, pois elas matarão os mobs e você perderá a EXP deles.
+Essa diária é muito importante para evoluir o seu Nível de Overlord.
+
+As entradas dos calabouços se chamam **Chave Diabólica** e **Chave Diabólica Revivida** e podem ser adquiridas no NPC Dr. Fernando em Tundra Infame. O custo da entrada é de:
+
+**Chave Diabólica**
+- 1,000,000 Alz
+- 3x Núcleo de Aprimoramento (Alto)
+
+**Chave Diabólica Revivida**
+- 2,000,000 Alz
+- 6x Núcleo de Aprimoramento (Altíssimo)
+
+> Cada entrada pode ser feita 2 vezes ao dia.
+
+> Não utilize mercenários que dão dano em área, tipo a Yuan ou a Rin, pois eles matarão os mobs e você perderá a EXP deles.
+
+Tutorial do calabouço: https://youtu.be/5T9JRbEjlgU
 
 ### :handshake: Dungeon da Guild
 Ainda não disponível.
