@@ -72,7 +72,7 @@ A entrada do calabouço se chama **Um pedaço da estátua misteriosa** e pode se
 > 
 > **Você pode fazer o calabouço da asa até 9 vezes por dia. Você pode resetar na terceira e sexta entrada, custando :gem: 75 e :gem: 100, respectivamente.**
 
-Tutorial do calabouço: https://youtu.be/K6lch5cYVIk
+Tutorial do calabouço: https://youtu.be/f4eeoWtfqek
 
 ![image](https://github.com/user-attachments/assets/554e03a2-7399-4b74-a435-9be8a282da03)
 
@@ -94,7 +94,7 @@ As entradas dos calabouços se chamam **Chave Diabólica** e **Chave Diabólica 
 
 > Não utilize mercenários que dão dano em área, tipo a Yuan ou a Rin, pois eles matarão os mobs e você perderá a EXP deles.
 
-Tutorial do calabouço: https://youtu.be/5T9JRbEjlgU
+Tutorial do calabouço: https://youtu.be/no21lglus3c
 
 ### :handshake: Dungeon da Guild
 Ainda não disponível.
