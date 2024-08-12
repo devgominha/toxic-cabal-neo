@@ -6,6 +6,7 @@ Respondendo as dúvidas mais frequentes para quem não tem muita familiaridade c
 [Como liberar o Link Estelar](https://discord.com/channels/943873464153034822/1264757141118652476/1266581905785225306)
 [Missão de Guerra](https://discord.com/channels/943873464153034822/1264757141118652476/1266581967315664906)
 [Como pegar Nação](https://discord.com/channels/943873464153034822/1264757141118652476/1266581999817195582)
+[Como avaliar medalha e evoluir o Mérito](https://discord.com/channels/943873464153034822/1264757141118652476/1272603443097243723)
 
 ### :wing: Como pegar Asa
 Para liberar a Asa Arcana, você precisa fazer a missão **Nv. 130 Grande Conquista da Vovó Yerte**, disponível no NPC Vovó Yerte em Porto Lux. Após pegar a missão, você precisará criar um item chamado **Caixa de Jóia de Luxo** na Chloe.
@@ -53,3 +54,6 @@ Para pegar nação, basta estar em alguma das cidades iniciais (Tundra, Deserto 
 @setnation 1  :point_right: Capella
 
 @setnation 2 :point_right: Procyon
+
+### :medal: Como avaliar medalha e evoluir o Mérito
+https://youtu.be/XK_6P1OwJX8
