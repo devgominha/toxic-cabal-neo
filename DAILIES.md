@@ -9,11 +9,13 @@ Lista das missões, calabouços e desafios que você pode fazer diariamente conf
 [Torres Diabólicas](https://discord.com/channels/943873464153034822/1264753551960440924/1266585890692661309)
 [Dungeon da Guild](https://discord.com/channels/943873464153034822/1264753551960440924/1266585904907161621)
 
+Vídeo resumido de todas as diárias: https://www.youtube.com/watch?v=snMuy3umh7c
+
 ### :heart_decoration: Missões da Chloe
-Em construção...
+Presente no vídeo resumido de todas as diárias.
 
 ### 🐴 Baldus
-Em construção...
+Presente no vídeo resumido de todas as diárias.
 
 ### 💪 Missões de Overlord
 Você tem duas missões diárias para aumentar o seu nível de Overlord. São essas duas missões: **OLv. 1 Missão Diária de Hursurf I** e **OLv. 1 Para essência do Fantasma Ancião**.
