@@ -3,7 +3,7 @@ Respondendo as dúvidas mais frequentes para quem não tem muita familiaridade c
 [Como pegar Asa](https://discord.com/channels/943873464153034822/1264757141118652476/1266581186604568649)
 [Como liberar a Coleção](https://discord.com/channels/943873464153034822/1264757141118652476/1266581380616159393)
 [Craft da Chloe](https://discord.com/channels/943873464153034822/1264757141118652476/1266581694098706515)
-[Como liberar o Link Estelar](https://discord.com/channels/943873464153034822/1264757141118652476/1266581905785225306)
+[Link Estelar](https://discord.com/channels/943873464153034822/1264757141118652476/1266581905785225306)
 [Missão de Guerra](https://discord.com/channels/943873464153034822/1264757141118652476/1266581967315664906)
 [Como pegar Nação](https://discord.com/channels/943873464153034822/1264757141118652476/1266581999817195582)
 [Como avaliar medalha e evoluir o Mérito](https://discord.com/channels/943873464153034822/1264757141118652476/1272603443097243723)
@@ -39,12 +39,12 @@ Você começa com **0 pontos de amizade** com ela, essa amizade cresce conforme 
 
 É de **EXTREMA IMPORTÂNCIA** fazer as missões diárias da Chloe (conforme expliquei aqui https://discord.com/channels/943873464153034822/1264753551960440924/1264764743239860225), pois você utilizará o **Token da Chloe** para liberar algumas receitas importantes, e essas missões te concedem 1 **Token da Chloe** por dia.
 
-### :star: Como liberar Link Estelar
+### :star: Link Estelar
 Para liberar o Link Estelar, você precisa fazer a missão **Nv. 50 A Força que o Meteoro Traz**, disponível na NPC Chloe em Porto Lux. Após pegar a missão, você precisará comprar um item chamado **Máquina de Trituração** (1,000,000 Alz) no NPC Hampric em Porto Lux.
 
 Após comprar o item, você precisa voltar para a Chloe e entregar a missão. Como recompensa, seu Link Estelar será liberado.
 
-Conteúdo mais detalhado sobre Link Estelar: https://tdrnevareth.blogspot.com/2022/12/sistema-de-link-estelar.html#google_vignette
+https://youtu.be/94lM37BvnFQ
 
 ### :crossed_swords: Missão de Guerra
 As guerras ocorrem nos seguintes horários: 12:00, 20:00 e 22:00.
